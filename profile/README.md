@@ -18,6 +18,9 @@ There is an online version of each presentation at the link above.
 ## Source code
 
 I write my slides using `Markdown`, and convert to pdf and html using [Pandoc](https://pandoc.org).
+All the source code is available in separate repositories at the links below.
+
+You can access the markdown files directly, which are particularly suitable for low bandwidth users.
 
 - [Introduction to Python](https://github.com/uea-teaching/python-introduction)
 - [Computing Principles](https://github.com/uea-teaching/computing-principles)
